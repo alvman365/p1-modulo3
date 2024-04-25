@@ -1,3 +1,4 @@
 capeta1/archivo1 Edición 1
 edición para el siguiente commit
 edición online para commit
+edición local, paso 10 pregunta 1
