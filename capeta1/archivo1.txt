@@ -1,3 +1,4 @@
 capeta1/archivo1 Edición 1
 edición para el siguiente commit
 edición alpha
+buscando conflictos en alpha
